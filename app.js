@@ -36,9 +36,9 @@ $('#audio_play_btn').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -100,9 +100,9 @@ $('#audio_play_btn2').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -162,9 +162,9 @@ $('#audio_play_btn3').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY').css("background-image", "url('images/bg sky.gif')");
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY').css("background-image", "url('images/bg sky.gif')");
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -224,8 +224,8 @@ $('#audio_play_btn4').click(function() {
         $(playbtnsection3).css(
             "background","transparent");
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn5').text('PLAY').css("background-image", "url('images/bg sky.gif')");
-        $('#audio_play_btn6').text('PLAY').css("background-image", "url('images/bg sky.gif')");
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -414,9 +414,9 @@ $('#play_btn_2_1').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -474,9 +474,9 @@ $('#play_btn_2_2').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -533,9 +533,9 @@ $('#play_btn_2_3').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -592,9 +592,9 @@ $('#play_btn_2_4').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -651,9 +651,9 @@ $('#play_btn_2_5').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -710,9 +710,9 @@ $('#play_btn_2_6').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -769,9 +769,9 @@ $('#play_btn_2_7').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
@@ -828,9 +828,9 @@ $('#play_btn_2_8').click(function() {
         $('#audio_play_btn4').text('PLAY');
         $(playbtnsection4).css(
             "background","transparent");
-        $('#audio_play_btn5').text('PLAY');
+        $('#audio_play_btn5').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection5).css("background-image", "url('images/bestcollection.jpg')");
-        $('#audio_play_btn6').text('PLAY');
+        $('#audio_play_btn6').css("background-image", "url('images/bg sky.gif')").text('PLAY');
         $(playbtnsection6).css(
             "background-image", "url('images/bestcollection.jpg')");
 
